@@ -1,0 +1,100 @@
+ /*#section {
+     text-align: center;
+ }
+
+ .bt {
+     position: fixed;
+     bottom: 0;
+     right: 0;
+
+ }
+
+ #r1 {
+     background-color: aquamarine;
+ }
+
+ #r2 {
+     background-color: bisque;
+ }
+
+ #r3 {
+     background-color: aquamarine;
+ }
+
+ #main {
+     background-color: aqua;
+*/
+
+ /* Grid
+ .container {
+     padding: 10px;
+     display: grid;
+     grid-template-columns: 100px 1fr;
+     grid-template-rows: 200px;
+
+
+
+
+
+ }
+
+ nav,
+ footer {
+     background-color: rgb(160, 100, 187);
+     padding: 10px;
+     text-align: center;
+
+
+ }
+
+ .side {
+     background-color: rgb(55, 134, 177);
+     width: 100px;
+     text-align: center;
+
+
+ }
+
+ .main {
+     padding: 20px;
+     background-color: azure;
+     text-align: center;
+
+ }
+
+ */
+
+
+ /*Flexbox*/
+ .container {
+     display: flex;
+     flex: auto;
+     text-align: center;
+
+
+ }
+
+ nav {
+
+     background-color: rgb(175, 175, 172);
+     padding: 10px;
+     text-align: center;
+ }
+
+ .side {
+     background-color: rgb(200, 216, 216);
+     width: 200px;
+     align-items:;
+
+ }
+
+ .main {
+     padding: 20px;
+     flex: auto;
+ }
+
+ footer {
+     background-color: rgb(175, 175, 172);
+     padding: 10px;
+     text-align: center;
+ }
